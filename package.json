@@ -1,6 +1,6 @@
 {
-  "name": "jemplate-runtime",
-  "version": "0.0.1",
+  "name": "jemplate",
+  "version": "0.0.2",
   "description": "Jemplate runtime as a node module (without Ajax or JSON support)",
   "main": "index.js",
   "scripts": {
