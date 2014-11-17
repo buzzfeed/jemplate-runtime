@@ -1,6 +1,6 @@
 {
   "name": "jemplate",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Jemplate runtime as a node module (without Ajax or JSON support)",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/buzzfeedjoe/jemplate-runtime.git"
+    "url": "git://github.com/buzzfeed/jemplate-runtime.git"
   },
   "keywords": [
     "jemplate"
   ],
   "author": "Joe Stanco",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/buzzfeedjoe/jemplate-runtime/issues"
+    "url": "https://github.com/buzzfeed/jemplate-runtime/issues"
   },
-  "homepage": "https://github.com/buzzfeedjoe/jemplate-runtime"
+  "homepage": "https://github.com/buzzfeed/jemplate-runtime"
 }
